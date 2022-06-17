@@ -1,0 +1,40 @@
+body {
+    background: lightgray;
+}
+
+div {
+    text-align: center;
+    width: 320px;
+    height: 497px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+}
+
+img {
+    border-radius: 10px;
+    margin-top: 16px;
+}
+
+.p1 {
+    color: #1F314F;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+}
+
+p {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    color: #7D889E;
+}
