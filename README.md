@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponent-THu2y94KOB). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -26,8 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Alberto-12/qr-code-component)
-- Live Site URL: [Add live site URL here](https://alberto-12.github.io/qr-code-component/)
+- Live Site URL: [live site URL](https://alberto-12.github.io/qr-code-component/)
 
 ## My process
 
@@ -38,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-In this challenge I learned how to work with images in HTML and also styling with CSS.
+this is the first challenge I've done and it's made with basic HTML and CSS without applaying rules for responsive layouts. Here's a snippet of HTML code where I'learned how to use images:
 
 ```html
 <img src="images/image-qr-code.png" alt="" width="288" height="288">
@@ -55,8 +54,8 @@ I'm looking forward to learn more about HTML and CSS and Javascript to add inter
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Alberto-12)
+- Frontend Mentor - [@Alberto-12](https://www.frontendmentor.io/profile/Alberto-12)
 
 ## Acknowledgments
 
-I'm very Thankfull for my mentor Treasure Kabareebe that guided me through the process.
+I'm very Thankfull for my mentor [Treasure Kabareebe](https://github.com/trekab) that guided me through the process.
